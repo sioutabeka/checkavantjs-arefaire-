@@ -1,0 +1,35 @@
+.hero-section {
+    background: rgba(0, 0, 0, 0.5);
+  }
+  
+  .text-white {
+    color: white !important;
+  }
+  
+  .navbar-light .navbar-nav .nav-link {
+    color: rgba(0, 0, 0, 0.5);
+  }
+  
+  .navbar-light .navbar-nav .nav-link:hover {
+    color: rgba(0, 0, 0, 0.9);
+  }
+  
+  .social-icons a {
+    font-size: 1.2em;
+    margin: 0 10px;
+  }
+  
+  .footer {
+    background-color: #343a40;
+    color: white;
+  }
+  
+  .footer .social-icons a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .footer .social-icons a:hover {
+    color: #adb5bd;
+  }
+  
